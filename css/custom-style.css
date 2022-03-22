@@ -1,0 +1,25 @@
+
+.corousel-button-color{
+    background-color: #ff2c7f;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.button-text-color{
+    color: #ff2c7f;
+}
+.info-background{
+    background-color:#fceae8;
+}
+/* category style  */
+.category img{
+    width: 100px;
+}
+.button-backg-color{
+    padding: 9px 25px;
+   background-color:  #ff458f ;
+   border-radius: 8px;
+}
+.subscribe-color{
+    background-color: #fceae8;
+}
